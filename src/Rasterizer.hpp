@@ -3,18 +3,18 @@
 class FrameBuffer
 {
 public:
-    // TODO data
-    int width;
-    int height;
+	// TODO data
+	int width;
+	int height;
 
 public:
-    // TODO
+	// TODO
 };
 
 class Rasterizer
 {
 public:
-    Rasterizer();
+	Rasterizer();
 
-    // TODO draw triangle(s)
+	// TODO draw triangle(s)
 };

@@ -1,6 +1,4 @@
 #include "Rasterizer.hpp"
 
-Rasterizer::Rasterizer()
-{
-
+Rasterizer::Rasterizer() {
 }
